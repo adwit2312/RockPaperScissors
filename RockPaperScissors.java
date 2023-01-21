@@ -1,5 +1,3 @@
-package grade11Review;
-
 //importing classes needed for simulation
 import java.util.Scanner;
 import java.util.Random;
